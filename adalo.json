@@ -1,0 +1,15 @@
+{
+  "displayName": "tripapp",
+  "components": [
+    {
+      "name": "Tripapp",
+      "manifest": "./src/components/Tripapp/manifest.json"
+    }
+  ],
+  "name": "Tripapp",
+  "author": "Stefan",
+  "description": "Tripp app",
+  "logo": "./example-logo.png",
+  "demoAppURL": "https://previewer.adalo.com/6a241cfb-903a-452a-b21d-f9a665b7f6bd",
+  "supportURL": "https://www.adalo.com"
+}
